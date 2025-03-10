@@ -1,9 +1,0 @@
-   # Visual Studio specific files
-   .vs/
-   *.vcxproj.user
-   *.vcxproj.filters
-   *.suo
-   *.user
-   *.userosscache
-   *.sln.docstates
-   
